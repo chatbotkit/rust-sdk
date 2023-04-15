@@ -11,7 +11,7 @@ repository = "https://github.com/chatbotkit/rust-sdk"
 
 readme = "README.md"
 
-keywords = ["LLM", "gpt3", "gpt4", "AI", "chat", "bot"]
+keywords = ["LLM", "gpt3", "gpt4", "chat", "bot"]
 
 categories = ["development-tools"]
 
