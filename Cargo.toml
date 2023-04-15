@@ -1,0 +1,25 @@
+[package]
+name = "chatbotkit"
+version = "0.0.1"
+authors = ["Petko D. Petkov <pdp@chatbotkit.com>"]
+edition = "2021"
+
+description = "The fastest way to build advanced AI chat bots."
+documentation = "https://chatbotkit.com/docs"
+homepage = "https://chatbotkit.com"
+repository = "https://github.com/chatbotkit/rust-sdk"
+
+readme = "README.md"
+
+keywords = ["LLM", "gpt3", "gpt4", "AI", "chat", "bot"]
+
+categories = ["development-tools"]
+
+license = "MIT"
+license-file = "LICENSE"
+
+[lib]
+name = "chatbotkit"
+path = "src/lib/chatbotkit.rs"
+
+[dependencies]
